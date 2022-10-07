@@ -19,6 +19,7 @@ Hipparchus
 ==========
 
 [![License](http://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
+[![Citation](https://zenodo.org/badge/DOI/10.5281/zenodo.7150113.svg)](https://zenodo.org/record/7150113)
 
 The Hipparchus project is a library of lightweight, self-contained
 mathematics and statistics components addressing the most common
